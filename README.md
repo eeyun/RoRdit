@@ -92,3 +92,5 @@ In Rails console, we need to create index and import our Link model.
 If you want you can change your site title, slogan and logo at admin panel page: `localhost:3000/admin`
 
 :exclamation: Don't forget to add SMTP settings at admin panel. Otherwise password recovery feature does not work.
+
+TEST bldr change
