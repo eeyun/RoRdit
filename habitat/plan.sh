@@ -15,3 +15,4 @@ scaffolding_env[SITE_SLOGAN]="{{cfg.site_slogan}}"
 scaffolding_env[ELASTICSEARCH_HOST]="{{bind.search.first.sys.ip}}"
 
 #adding a comment to test builder behavior
+#adding a second comment to see if we kick off a build
