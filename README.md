@@ -93,3 +93,5 @@ If you want you can change your site title, slogan and logo at admin panel page:
 
 :exclamation: Don't forget to add SMTP settings at admin panel. Otherwise password recovery feature does not work.
 
+adding a comment to test bldr behavior.
+
